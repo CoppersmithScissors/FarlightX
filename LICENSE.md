@@ -25,7 +25,7 @@ Experience Farlight 84 like never before with our advanced 2026 edition hack. Th
 ![Undetectable](https://img.shields.io/badge/UNDETECTABLE-2026-FF9800?style=flat-square)
 ![Auto Update](https://img.shields.io/badge/AUTO_UPDATE-YES-00BCD4?style=flat-square)
 
-### 🎯 **Core Features**
+### 🎯 **Core Features**:
 - **Smart Aimbot** with customizable settings
 - **Full ESP System** (players, items, vehicles)
 - **Radar Hack** with enemy tracking
